@@ -1,0 +1,2 @@
+Xin chao3.14 la so PI
+Student [id=100, ten=Nguyen Van A]
